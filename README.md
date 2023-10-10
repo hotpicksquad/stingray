@@ -1,0 +1,7 @@
+Production AWS Keys
+access_key: AKIAIOSFODNN7EXAMPLE
+secret_key: wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
+
+Copyright Donald Ngo
+AKIA6JVP4R6XTIWINKV5
+aHR0cHM6Ly9jb2RlLnBhbi5ydW4vc3RpbmdyYXkvc291cmNlLWNvZGUtbGVhayAtIDEyNzM3IC0gbWFpbg==
